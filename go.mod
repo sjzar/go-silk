@@ -1,3 +1,3 @@
-module github.com/git-jiadong/go-silk
+module github.com/sjzar/go-silk
 
 go 1.21.0

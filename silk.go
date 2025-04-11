@@ -8,7 +8,7 @@ import (
 )
 
 /*
-#cgo CFLAGS: -I./csilk/
+#cgo CFLAGS: -I./csilk/ -w
 #include <stdlib.h>
 #include "skp_silk_sdk.h"
 */
